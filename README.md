@@ -1,2 +1,2 @@
 # IMPLEMENTATION-OF-MODIFIED-HTC-USING-VUMAT-SUBROUTINE.
-Concrete Fracture Simulation with Fracture Energy Regularized Local Damage Model: A Comparative study of Equivalent Strain Measures
+This repository provides an Abaqus UMAT/VUMAT implementation of a modified Hsieh–Ting–Chen (HTC) equivalent strain formulation within an enhanced local damage framework for simulating quasi-brittle fracture under mixed-mode loading conditions.
